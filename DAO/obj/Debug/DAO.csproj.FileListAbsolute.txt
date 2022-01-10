@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\DAO.dll.config
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\DAO.dll
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\DAO.pdb
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\Entidades.dll
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\Entidades.dll.config
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Hospital_Italiano\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Hospital_Italiano\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hospital_Italiano\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hospital_Italiano\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\user\source\repos\Hospital_Italiano\DAO\obj\Debug\DAO.dll
+C:\Users\user\source\repos\Hospital_Italiano\DAO\obj\Debug\DAO.pdb

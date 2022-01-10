@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\Servicios.dll
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\Servicios.pdb
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\DAO.dll
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\Entidades.dll
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\DAO.pdb
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\DAO.dll.config
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\Entidades.dll.config
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\obj\Debug\Servicios.dll
+C:\Users\user\source\repos\Hospital_Italiano\Servicios\obj\Debug\Servicios.pdb

@@ -1,0 +1,111 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #232170 !important;
+    background-image: url('img/Hospital-italiano-back-login.jpg');
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.border-end {
+    border-right: 1px solid #7f7f7f !important;
+}
+
+#login p {
+    font-size: .88rem !important;
+    color: #3E38F2
+}
+
+body.login .accordion-button::after {
+    content: none !important
+}
+
+.accordion-button {
+    font-size: .83rem !important;
+    color: #7f7f7f
+}
+
+    .accordion-button:not(.collapsed) {
+        color: #3E38F2 !important;
+        background-color: unset !important;
+        box-shadow: none !important;
+        font-weight: bold;
+        font-size: .79rem !important;
+    }
+
+.form-floating > .form-control, [type="submit"], .input-group input, .form-group input {
+    height: calc(2rem + 2px) !important;
+    line-height: 1.25;
+}
+
+.input-group img {
+    z-index: 999;
+    position: absolute;
+    left: 13px;
+    top: 6px
+}
+
+    input.form-control::placeholder {
+        color: #7f7f7f !important;
+    }
+
+input.form-control {
+    background-color: #F2F2F2 !important;
+}
+
+
+.btn-primary {
+    background-color: #242873;
+    border-color: #242873;
+    font-size: .85rem
+}
+
+
+    .btn-primary:hover {
+        background-color: #3E38F2;
+        border-color: #3E38F2;
+    }
+
+.rounded-4 {
+    border-radius: 1rem !important;
+}
+
+.form-group, .input-group {
+    margin-bottom: 1rem;
+}
+
+center {
+    display: none !important
+}
+
+@media (min-width: 768px) {
+    main.form-signin {
+        max-width: 35% !important
+    }
+}
